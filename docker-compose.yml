@@ -1,0 +1,47 @@
+# Full stack: DynamoDB Local, a one-shot table/seed job, both services and the web app.
+#   docker compose up --build   ->  app on http://localhost:8080
+x-aws: &aws
+  AWS_ACCESS_KEY_ID: local
+  AWS_SECRET_ACCESS_KEY: local
+  AWS_REGION: ap-south-1
+  DYNAMODB_ENDPOINT: http://dynamodb:8000
+  SERVICE_TOKEN: ${SERVICE_TOKEN:-change-me-service-token}
+
+services:
+  dynamodb:
+    image: amazon/dynamodb-local:2.5.2
+    command: -jar DynamoDBLocal.jar -sharedDb -inMemory
+    ports: ["8001:8000"]
+
+  bootstrap:
+    build: .
+    command: python -m scripts.bootstrap
+    environment: *aws
+    depends_on: [dynamodb]
+    restart: on-failure
+
+  content:
+    build: .
+    command: gunicorn -w 2 -b 0.0.0.0:5001 "content_service.app:create_app()"
+    environment:
+      <<: *aws
+      ADMIN_KEY: ${ADMIN_KEY:-change-me-admin-key}
+    depends_on:
+      bootstrap: { condition: service_completed_successfully }
+    ports: ["5001:5001"]
+
+  practice:
+    build: .
+    command: uvicorn practice_service.app:create_app --factory --host 0.0.0.0 --port 8000
+    environment:
+      <<: *aws
+      CONTENT_URL: http://content:5001
+      CORS_ORIGINS: http://localhost:8080
+    depends_on:
+      bootstrap: { condition: service_completed_successfully }
+    ports: ["8000:8000"]
+
+  web:
+    build: ./web
+    depends_on: [content, practice]
+    ports: ["8080:80"]

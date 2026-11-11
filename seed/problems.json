@@ -1,0 +1,1730 @@
+[
+  {
+    "id": "integers-00",
+    "topic": "integers",
+    "rating": 491,
+    "prompt": "Calculate -2 + (-4)",
+    "answer": "-6",
+    "answer_type": "numeric",
+    "hint": "Subtracting a negative is the same as adding."
+  },
+  {
+    "id": "integers-01",
+    "topic": "integers",
+    "rating": 529,
+    "prompt": "Calculate -3 + (-2)",
+    "answer": "-5",
+    "answer_type": "numeric",
+    "hint": "Subtracting a negative is the same as adding."
+  },
+  {
+    "id": "integers-02",
+    "topic": "integers",
+    "rating": 463,
+    "prompt": "Calculate 2 + (-2)",
+    "answer": "0",
+    "answer_type": "numeric",
+    "hint": "Subtracting a negative is the same as adding."
+  },
+  {
+    "id": "integers-03",
+    "topic": "integers",
+    "rating": 524,
+    "prompt": "Calculate -2 + (-3)",
+    "answer": "-5",
+    "answer_type": "numeric",
+    "hint": "Subtracting a negative is the same as adding."
+  },
+  {
+    "id": "integers-04",
+    "topic": "integers",
+    "rating": 488,
+    "prompt": "Calculate -2 + (-5)",
+    "answer": "-7",
+    "answer_type": "numeric",
+    "hint": "Subtracting a negative is the same as adding."
+  },
+  {
+    "id": "integers-05",
+    "topic": "integers",
+    "rating": 480,
+    "prompt": "Calculate 5 + (-2)",
+    "answer": "3",
+    "answer_type": "numeric",
+    "hint": "Subtracting a negative is the same as adding."
+  },
+  {
+    "id": "integers-10",
+    "topic": "integers",
+    "rating": 659,
+    "prompt": "Calculate 8 - (-6)",
+    "answer": "14",
+    "answer_type": "numeric",
+    "hint": "Subtracting a negative is the same as adding."
+  },
+  {
+    "id": "integers-11",
+    "topic": "integers",
+    "rating": 651,
+    "prompt": "Calculate 5 - (-3)",
+    "answer": "8",
+    "answer_type": "numeric",
+    "hint": "Subtracting a negative is the same as adding."
+  },
+  {
+    "id": "integers-12",
+    "topic": "integers",
+    "rating": 684,
+    "prompt": "Calculate -8 - (-7)",
+    "answer": "-1",
+    "answer_type": "numeric",
+    "hint": "Subtracting a negative is the same as adding."
+  },
+  {
+    "id": "integers-13",
+    "topic": "integers",
+    "rating": 708,
+    "prompt": "Calculate -6 - (-9)",
+    "answer": "3",
+    "answer_type": "numeric",
+    "hint": "Subtracting a negative is the same as adding."
+  },
+  {
+    "id": "integers-14",
+    "topic": "integers",
+    "rating": 710,
+    "prompt": "Calculate 3 - (-3)",
+    "answer": "6",
+    "answer_type": "numeric",
+    "hint": "Subtracting a negative is the same as adding."
+  },
+  {
+    "id": "integers-15",
+    "topic": "integers",
+    "rating": 648,
+    "prompt": "Calculate 6 - (-5)",
+    "answer": "11",
+    "answer_type": "numeric",
+    "hint": "Subtracting a negative is the same as adding."
+  },
+  {
+    "id": "integers-20",
+    "topic": "integers",
+    "rating": 830,
+    "prompt": "Calculate -2 + (-6)",
+    "answer": "-8",
+    "answer_type": "numeric",
+    "hint": "Subtracting a negative is the same as adding."
+  },
+  {
+    "id": "integers-21",
+    "topic": "integers",
+    "rating": 855,
+    "prompt": "Calculate -5 + (-8)",
+    "answer": "-13",
+    "answer_type": "numeric",
+    "hint": "Subtracting a negative is the same as adding."
+  },
+  {
+    "id": "integers-22",
+    "topic": "integers",
+    "rating": 867,
+    "prompt": "Calculate 9 + (-4)",
+    "answer": "5",
+    "answer_type": "numeric",
+    "hint": "Subtracting a negative is the same as adding."
+  },
+  {
+    "id": "integers-23",
+    "topic": "integers",
+    "rating": 854,
+    "prompt": "Calculate -7 + (-12)",
+    "answer": "-19",
+    "answer_type": "numeric",
+    "hint": "Subtracting a negative is the same as adding."
+  },
+  {
+    "id": "integers-24",
+    "topic": "integers",
+    "rating": 841,
+    "prompt": "Calculate -13 + (-11)",
+    "answer": "-24",
+    "answer_type": "numeric",
+    "hint": "Subtracting a negative is the same as adding."
+  },
+  {
+    "id": "integers-25",
+    "topic": "integers",
+    "rating": 879,
+    "prompt": "Calculate -10 + (-4)",
+    "answer": "-14",
+    "answer_type": "numeric",
+    "hint": "Subtracting a negative is the same as adding."
+  },
+  {
+    "id": "integers-30",
+    "topic": "integers",
+    "rating": 1041,
+    "prompt": "Calculate 14 × (-9)",
+    "answer": "-126",
+    "answer_type": "numeric",
+    "hint": "Subtracting a negative is the same as adding."
+  },
+  {
+    "id": "integers-31",
+    "topic": "integers",
+    "rating": 1040,
+    "prompt": "Calculate -3 × (-3)",
+    "answer": "9",
+    "answer_type": "numeric",
+    "hint": "Subtracting a negative is the same as adding."
+  },
+  {
+    "id": "integers-32",
+    "topic": "integers",
+    "rating": 1027,
+    "prompt": "Calculate 14 × (-4)",
+    "answer": "-56",
+    "answer_type": "numeric",
+    "hint": "Subtracting a negative is the same as adding."
+  },
+  {
+    "id": "integers-33",
+    "topic": "integers",
+    "rating": 1050,
+    "prompt": "Calculate -12 × (-17)",
+    "answer": "204",
+    "answer_type": "numeric",
+    "hint": "Subtracting a negative is the same as adding."
+  },
+  {
+    "id": "integers-34",
+    "topic": "integers",
+    "rating": 1017,
+    "prompt": "Calculate -16 × (-10)",
+    "answer": "160",
+    "answer_type": "numeric",
+    "hint": "Subtracting a negative is the same as adding."
+  },
+  {
+    "id": "integers-35",
+    "topic": "integers",
+    "rating": 1074,
+    "prompt": "Calculate 9 × (-15)",
+    "answer": "-135",
+    "answer_type": "numeric",
+    "hint": "Subtracting a negative is the same as adding."
+  },
+  {
+    "id": "integers-41",
+    "topic": "integers",
+    "rating": 1186,
+    "prompt": "Calculate 6 × (-4)",
+    "answer": "-24",
+    "answer_type": "numeric",
+    "hint": "Subtracting a negative is the same as adding."
+  },
+  {
+    "id": "integers-42",
+    "topic": "integers",
+    "rating": 1234,
+    "prompt": "Calculate -5 × (-7)",
+    "answer": "35",
+    "answer_type": "numeric",
+    "hint": "Subtracting a negative is the same as adding."
+  },
+  {
+    "id": "integers-43",
+    "topic": "integers",
+    "rating": 1228,
+    "prompt": "Calculate -21 × (-14)",
+    "answer": "294",
+    "answer_type": "numeric",
+    "hint": "Subtracting a negative is the same as adding."
+  },
+  {
+    "id": "integers-44",
+    "topic": "integers",
+    "rating": 1212,
+    "prompt": "Calculate 21 × (-18)",
+    "answer": "-378",
+    "answer_type": "numeric",
+    "hint": "Subtracting a negative is the same as adding."
+  },
+  {
+    "id": "integers-45",
+    "topic": "integers",
+    "rating": 1248,
+    "prompt": "Calculate -19 × (-5)",
+    "answer": "95",
+    "answer_type": "numeric",
+    "hint": "Subtracting a negative is the same as adding."
+  },
+  {
+    "id": "integers-50",
+    "topic": "integers",
+    "rating": 1397,
+    "prompt": "Calculate 10 × (-5)",
+    "answer": "-50",
+    "answer_type": "numeric",
+    "hint": "Subtracting a negative is the same as adding."
+  },
+  {
+    "id": "integers-51",
+    "topic": "integers",
+    "rating": 1360,
+    "prompt": "Calculate -15 × (-16)",
+    "answer": "240",
+    "answer_type": "numeric",
+    "hint": "Subtracting a negative is the same as adding."
+  },
+  {
+    "id": "integers-52",
+    "topic": "integers",
+    "rating": 1382,
+    "prompt": "Calculate 25 × (-18)",
+    "answer": "-450",
+    "answer_type": "numeric",
+    "hint": "Subtracting a negative is the same as adding."
+  },
+  {
+    "id": "integers-53",
+    "topic": "integers",
+    "rating": 1398,
+    "prompt": "Calculate -18 × (-22)",
+    "answer": "396",
+    "answer_type": "numeric",
+    "hint": "Subtracting a negative is the same as adding."
+  },
+  {
+    "id": "integers-54",
+    "topic": "integers",
+    "rating": 1407,
+    "prompt": "Calculate -22 × (-6)",
+    "answer": "132",
+    "answer_type": "numeric",
+    "hint": "Subtracting a negative is the same as adding."
+  },
+  {
+    "id": "integers-55",
+    "topic": "integers",
+    "rating": 1401,
+    "prompt": "Calculate -7 × (-21)",
+    "answer": "147",
+    "answer_type": "numeric",
+    "hint": "Subtracting a negative is the same as adding."
+  },
+  {
+    "id": "fractions-00",
+    "topic": "fractions",
+    "rating": 474,
+    "prompt": "Work out 1/2 + 1/4. Give your answer as a fraction in simplest form.",
+    "answer": "3/4",
+    "answer_type": "fraction",
+    "hint": "Rewrite both fractions over a common denominator first."
+  },
+  {
+    "id": "fractions-01",
+    "topic": "fractions",
+    "rating": 490,
+    "prompt": "Work out 1/2 + 2/4. Give your answer as a fraction in simplest form.",
+    "answer": "1/1",
+    "answer_type": "fraction",
+    "hint": "Rewrite both fractions over a common denominator first."
+  },
+  {
+    "id": "fractions-10",
+    "topic": "fractions",
+    "rating": 661,
+    "prompt": "Work out 2/3 + 5/6. Give your answer as a fraction in simplest form.",
+    "answer": "3/2",
+    "answer_type": "fraction",
+    "hint": "Rewrite both fractions over a common denominator first."
+  },
+  {
+    "id": "fractions-12",
+    "topic": "fractions",
+    "rating": 709,
+    "prompt": "Work out 2/3 + 2/6. Give your answer as a fraction in simplest form.",
+    "answer": "1/1",
+    "answer_type": "fraction",
+    "hint": "Rewrite both fractions over a common denominator first."
+  },
+  {
+    "id": "fractions-13",
+    "topic": "fractions",
+    "rating": 691,
+    "prompt": "Work out 1/3 + 3/6. Give your answer as a fraction in simplest form.",
+    "answer": "5/6",
+    "answer_type": "fraction",
+    "hint": "Rewrite both fractions over a common denominator first."
+  },
+  {
+    "id": "fractions-14",
+    "topic": "fractions",
+    "rating": 706,
+    "prompt": "Work out 2/3 + 4/6. Give your answer as a fraction in simplest form.",
+    "answer": "4/3",
+    "answer_type": "fraction",
+    "hint": "Rewrite both fractions over a common denominator first."
+  },
+  {
+    "id": "fractions-15",
+    "topic": "fractions",
+    "rating": 671,
+    "prompt": "Work out 2/3 + 1/6. Give your answer as a fraction in simplest form.",
+    "answer": "5/6",
+    "answer_type": "fraction",
+    "hint": "Rewrite both fractions over a common denominator first."
+  },
+  {
+    "id": "fractions-20",
+    "topic": "fractions",
+    "rating": 863,
+    "prompt": "Work out 1/3 + 1/4. Give your answer as a fraction in simplest form.",
+    "answer": "7/12",
+    "answer_type": "fraction",
+    "hint": "Rewrite both fractions over a common denominator first."
+  },
+  {
+    "id": "fractions-21",
+    "topic": "fractions",
+    "rating": 890,
+    "prompt": "Work out 1/3 + 3/4. Give your answer as a fraction in simplest form.",
+    "answer": "13/12",
+    "answer_type": "fraction",
+    "hint": "Rewrite both fractions over a common denominator first."
+  },
+  {
+    "id": "fractions-30",
+    "topic": "fractions",
+    "rating": 1009,
+    "prompt": "Work out 1/5 - 1/6. Give your answer as a fraction in simplest form.",
+    "answer": "1/30",
+    "answer_type": "fraction",
+    "hint": "Rewrite both fractions over a common denominator first."
+  },
+  {
+    "id": "fractions-31",
+    "topic": "fractions",
+    "rating": 1027,
+    "prompt": "Work out 2/5 - 3/6. Give your answer as a fraction in simplest form.",
+    "answer": "-1/10",
+    "answer_type": "fraction",
+    "hint": "Rewrite both fractions over a common denominator first."
+  },
+  {
+    "id": "fractions-32",
+    "topic": "fractions",
+    "rating": 1031,
+    "prompt": "Work out 2/5 - 5/6. Give your answer as a fraction in simplest form.",
+    "answer": "-13/30",
+    "answer_type": "fraction",
+    "hint": "Rewrite both fractions over a common denominator first."
+  },
+  {
+    "id": "fractions-33",
+    "topic": "fractions",
+    "rating": 1012,
+    "prompt": "Work out 4/5 + 4/6. Give your answer as a fraction in simplest form.",
+    "answer": "22/15",
+    "answer_type": "fraction",
+    "hint": "Rewrite both fractions over a common denominator first."
+  },
+  {
+    "id": "fractions-34",
+    "topic": "fractions",
+    "rating": 1059,
+    "prompt": "Work out 4/5 + 3/6. Give your answer as a fraction in simplest form.",
+    "answer": "13/10",
+    "answer_type": "fraction",
+    "hint": "Rewrite both fractions over a common denominator first."
+  },
+  {
+    "id": "fractions-35",
+    "topic": "fractions",
+    "rating": 1043,
+    "prompt": "Work out 1/5 + 1/6. Give your answer as a fraction in simplest form.",
+    "answer": "11/30",
+    "answer_type": "fraction",
+    "hint": "Rewrite both fractions over a common denominator first."
+  },
+  {
+    "id": "fractions-40",
+    "topic": "fractions",
+    "rating": 1248,
+    "prompt": "Work out 1/4 + 2/7. Give your answer as a fraction in simplest form.",
+    "answer": "15/28",
+    "answer_type": "fraction",
+    "hint": "Rewrite both fractions over a common denominator first."
+  },
+  {
+    "id": "fractions-41",
+    "topic": "fractions",
+    "rating": 1215,
+    "prompt": "Work out 2/4 + 2/7. Give your answer as a fraction in simplest form.",
+    "answer": "11/14",
+    "answer_type": "fraction",
+    "hint": "Rewrite both fractions over a common denominator first."
+  },
+  {
+    "id": "fractions-42",
+    "topic": "fractions",
+    "rating": 1189,
+    "prompt": "Work out 2/4 - 2/7. Give your answer as a fraction in simplest form.",
+    "answer": "3/14",
+    "answer_type": "fraction",
+    "hint": "Rewrite both fractions over a common denominator first."
+  },
+  {
+    "id": "fractions-43",
+    "topic": "fractions",
+    "rating": 1249,
+    "prompt": "Work out 2/4 + 5/7. Give your answer as a fraction in simplest form.",
+    "answer": "17/14",
+    "answer_type": "fraction",
+    "hint": "Rewrite both fractions over a common denominator first."
+  },
+  {
+    "id": "fractions-44",
+    "topic": "fractions",
+    "rating": 1210,
+    "prompt": "Work out 1/4 - 1/7. Give your answer as a fraction in simplest form.",
+    "answer": "3/28",
+    "answer_type": "fraction",
+    "hint": "Rewrite both fractions over a common denominator first."
+  },
+  {
+    "id": "fractions-45",
+    "topic": "fractions",
+    "rating": 1207,
+    "prompt": "Work out 1/4 + 4/7. Give your answer as a fraction in simplest form.",
+    "answer": "23/28",
+    "answer_type": "fraction",
+    "hint": "Rewrite both fractions over a common denominator first."
+  },
+  {
+    "id": "fractions-50",
+    "topic": "fractions",
+    "rating": 1381,
+    "prompt": "Work out 7/8 - 7/9. Give your answer as a fraction in simplest form.",
+    "answer": "7/72",
+    "answer_type": "fraction",
+    "hint": "Rewrite both fractions over a common denominator first."
+  },
+  {
+    "id": "fractions-51",
+    "topic": "fractions",
+    "rating": 1393,
+    "prompt": "Work out 4/8 - 1/9. Give your answer as a fraction in simplest form.",
+    "answer": "7/18",
+    "answer_type": "fraction",
+    "hint": "Rewrite both fractions over a common denominator first."
+  },
+  {
+    "id": "fractions-52",
+    "topic": "fractions",
+    "rating": 1431,
+    "prompt": "Work out 7/8 + 8/9. Give your answer as a fraction in simplest form.",
+    "answer": "127/72",
+    "answer_type": "fraction",
+    "hint": "Rewrite both fractions over a common denominator first."
+  },
+  {
+    "id": "fractions-53",
+    "topic": "fractions",
+    "rating": 1397,
+    "prompt": "Work out 6/8 + 8/9. Give your answer as a fraction in simplest form.",
+    "answer": "59/36",
+    "answer_type": "fraction",
+    "hint": "Rewrite both fractions over a common denominator first."
+  },
+  {
+    "id": "fractions-54",
+    "topic": "fractions",
+    "rating": 1429,
+    "prompt": "Work out 2/8 - 1/9. Give your answer as a fraction in simplest form.",
+    "answer": "5/36",
+    "answer_type": "fraction",
+    "hint": "Rewrite both fractions over a common denominator first."
+  },
+  {
+    "id": "fractions-55",
+    "topic": "fractions",
+    "rating": 1434,
+    "prompt": "Work out 1/8 + 6/9. Give your answer as a fraction in simplest form.",
+    "answer": "19/24",
+    "answer_type": "fraction",
+    "hint": "Rewrite both fractions over a common denominator first."
+  },
+  {
+    "id": "percentages-00",
+    "topic": "percentages",
+    "rating": 527,
+    "prompt": "What is 20% of 360?",
+    "answer": "72",
+    "answer_type": "numeric",
+    "hint": "Divide by 100, then multiply by the percent."
+  },
+  {
+    "id": "percentages-01",
+    "topic": "percentages",
+    "rating": 525,
+    "prompt": "What is 25% of 60?",
+    "answer": "15",
+    "answer_type": "numeric",
+    "hint": "Divide by 100, then multiply by the percent."
+  },
+  {
+    "id": "percentages-02",
+    "topic": "percentages",
+    "rating": 468,
+    "prompt": "What is 10% of 140?",
+    "answer": "14",
+    "answer_type": "numeric",
+    "hint": "Divide by 100, then multiply by the percent."
+  },
+  {
+    "id": "percentages-03",
+    "topic": "percentages",
+    "rating": 511,
+    "prompt": "What is 10% of 180?",
+    "answer": "18",
+    "answer_type": "numeric",
+    "hint": "Divide by 100, then multiply by the percent."
+  },
+  {
+    "id": "percentages-05",
+    "topic": "percentages",
+    "rating": 513,
+    "prompt": "What is 10% of 80?",
+    "answer": "8",
+    "answer_type": "numeric",
+    "hint": "Divide by 100, then multiply by the percent."
+  },
+  {
+    "id": "percentages-10",
+    "topic": "percentages",
+    "rating": 666,
+    "prompt": "What is 50% of 200?",
+    "answer": "100",
+    "answer_type": "numeric",
+    "hint": "Divide by 100, then multiply by the percent."
+  },
+  {
+    "id": "percentages-11",
+    "topic": "percentages",
+    "rating": 673,
+    "prompt": "What is 50% of 180?",
+    "answer": "90",
+    "answer_type": "numeric",
+    "hint": "Divide by 100, then multiply by the percent."
+  },
+  {
+    "id": "percentages-12",
+    "topic": "percentages",
+    "rating": 678,
+    "prompt": "What is 20% of 120?",
+    "answer": "24",
+    "answer_type": "numeric",
+    "hint": "Divide by 100, then multiply by the percent."
+  },
+  {
+    "id": "percentages-13",
+    "topic": "percentages",
+    "rating": 649,
+    "prompt": "What is 20% of 240?",
+    "answer": "48",
+    "answer_type": "numeric",
+    "hint": "Divide by 100, then multiply by the percent."
+  },
+  {
+    "id": "percentages-14",
+    "topic": "percentages",
+    "rating": 719,
+    "prompt": "What is 10% of 320?",
+    "answer": "32",
+    "answer_type": "numeric",
+    "hint": "Divide by 100, then multiply by the percent."
+  },
+  {
+    "id": "percentages-20",
+    "topic": "percentages",
+    "rating": 884,
+    "prompt": "A bag costs ₹1900. It is discounted by 30%. What is the new price in ₹?",
+    "answer": "1330",
+    "answer_type": "numeric",
+    "hint": "Find the discount, then subtract it."
+  },
+  {
+    "id": "percentages-21",
+    "topic": "percentages",
+    "rating": 864,
+    "prompt": "A bag costs ₹1000. It is discounted by 30%. What is the new price in ₹?",
+    "answer": "700",
+    "answer_type": "numeric",
+    "hint": "Find the discount, then subtract it."
+  },
+  {
+    "id": "percentages-22",
+    "topic": "percentages",
+    "rating": 867,
+    "prompt": "A bag costs ₹400. It is discounted by 30%. What is the new price in ₹?",
+    "answer": "280",
+    "answer_type": "numeric",
+    "hint": "Find the discount, then subtract it."
+  },
+  {
+    "id": "percentages-23",
+    "topic": "percentages",
+    "rating": 876,
+    "prompt": "A bag costs ₹1100. It is discounted by 30%. What is the new price in ₹?",
+    "answer": "770",
+    "answer_type": "numeric",
+    "hint": "Find the discount, then subtract it."
+  },
+  {
+    "id": "percentages-24",
+    "topic": "percentages",
+    "rating": 898,
+    "prompt": "A bag costs ₹1900. It is discounted by 35%. What is the new price in ₹?",
+    "answer": "1235",
+    "answer_type": "numeric",
+    "hint": "Find the discount, then subtract it."
+  },
+  {
+    "id": "percentages-25",
+    "topic": "percentages",
+    "rating": 890,
+    "prompt": "A bag costs ₹1850. It is discounted by 15%. What is the new price in ₹?",
+    "answer": "1572.5",
+    "answer_type": "numeric",
+    "hint": "Find the discount, then subtract it."
+  },
+  {
+    "id": "percentages-30",
+    "topic": "percentages",
+    "rating": 1017,
+    "prompt": "A bag costs ₹1150. It is discounted by 15%. What is the new price in ₹?",
+    "answer": "977.5",
+    "answer_type": "numeric",
+    "hint": "Find the discount, then subtract it."
+  },
+  {
+    "id": "percentages-31",
+    "topic": "percentages",
+    "rating": 1013,
+    "prompt": "A bag costs ₹1000. It is discounted by 15%. What is the new price in ₹?",
+    "answer": "850",
+    "answer_type": "numeric",
+    "hint": "Find the discount, then subtract it."
+  },
+  {
+    "id": "percentages-32",
+    "topic": "percentages",
+    "rating": 1034,
+    "prompt": "A bag costs ₹1950. It is discounted by 30%. What is the new price in ₹?",
+    "answer": "1365",
+    "answer_type": "numeric",
+    "hint": "Find the discount, then subtract it."
+  },
+  {
+    "id": "percentages-34",
+    "topic": "percentages",
+    "rating": 1033,
+    "prompt": "A bag costs ₹1250. It is discounted by 30%. What is the new price in ₹?",
+    "answer": "875",
+    "answer_type": "numeric",
+    "hint": "Find the discount, then subtract it."
+  },
+  {
+    "id": "percentages-35",
+    "topic": "percentages",
+    "rating": 1032,
+    "prompt": "A bag costs ₹1800. It is discounted by 12%. What is the new price in ₹?",
+    "answer": "1584",
+    "answer_type": "numeric",
+    "hint": "Find the discount, then subtract it."
+  },
+  {
+    "id": "percentages-40",
+    "topic": "percentages",
+    "rating": 1234,
+    "prompt": "A price changes from ₹48 to ₹54. What is the percentage change? (Use a minus sign for a decrease.)",
+    "answer": "12.5",
+    "answer_type": "numeric",
+    "hint": "Change ÷ original × 100."
+  },
+  {
+    "id": "percentages-41",
+    "topic": "percentages",
+    "rating": 1180,
+    "prompt": "A price changes from ₹104 to ₹117. What is the percentage change? (Use a minus sign for a decrease.)",
+    "answer": "12.5",
+    "answer_type": "numeric",
+    "hint": "Change ÷ original × 100."
+  },
+  {
+    "id": "percentages-42",
+    "topic": "percentages",
+    "rating": 1213,
+    "prompt": "A price changes from ₹120 to ₹135. What is the percentage change? (Use a minus sign for a decrease.)",
+    "answer": "12.5",
+    "answer_type": "numeric",
+    "hint": "Change ÷ original × 100."
+  },
+  {
+    "id": "percentages-43",
+    "topic": "percentages",
+    "rating": 1236,
+    "prompt": "A price changes from ₹80 to ₹130. What is the percentage change? (Use a minus sign for a decrease.)",
+    "answer": "62.5",
+    "answer_type": "numeric",
+    "hint": "Change ÷ original × 100."
+  },
+  {
+    "id": "percentages-44",
+    "topic": "percentages",
+    "rating": 1234,
+    "prompt": "A price changes from ₹176 to ₹286. What is the percentage change? (Use a minus sign for a decrease.)",
+    "answer": "62.5",
+    "answer_type": "numeric",
+    "hint": "Change ÷ original × 100."
+  },
+  {
+    "id": "percentages-45",
+    "topic": "percentages",
+    "rating": 1194,
+    "prompt": "A price changes from ₹176 to ₹198. What is the percentage change? (Use a minus sign for a decrease.)",
+    "answer": "12.5",
+    "answer_type": "numeric",
+    "hint": "Change ÷ original × 100."
+  },
+  {
+    "id": "percentages-50",
+    "topic": "percentages",
+    "rating": 1379,
+    "prompt": "A price changes from ₹56 to ₹21. What is the percentage change? (Use a minus sign for a decrease.)",
+    "answer": "-62.5",
+    "answer_type": "numeric",
+    "hint": "Change ÷ original × 100."
+  },
+  {
+    "id": "percentages-51",
+    "topic": "percentages",
+    "rating": 1407,
+    "prompt": "A price changes from ₹176 to ₹154. What is the percentage change? (Use a minus sign for a decrease.)",
+    "answer": "-12.5",
+    "answer_type": "numeric",
+    "hint": "Change ÷ original × 100."
+  },
+  {
+    "id": "percentages-52",
+    "topic": "percentages",
+    "rating": 1378,
+    "prompt": "A price changes from ₹184 to ₹69. What is the percentage change? (Use a minus sign for a decrease.)",
+    "answer": "-62.5",
+    "answer_type": "numeric",
+    "hint": "Change ÷ original × 100."
+  },
+  {
+    "id": "percentages-53",
+    "topic": "percentages",
+    "rating": 1365,
+    "prompt": "A price changes from ₹144 to ₹126. What is the percentage change? (Use a minus sign for a decrease.)",
+    "answer": "-12.5",
+    "answer_type": "numeric",
+    "hint": "Change ÷ original × 100."
+  },
+  {
+    "id": "percentages-54",
+    "topic": "percentages",
+    "rating": 1365,
+    "prompt": "A price changes from ₹112 to ₹70. What is the percentage change? (Use a minus sign for a decrease.)",
+    "answer": "-37.5",
+    "answer_type": "numeric",
+    "hint": "Change ÷ original × 100."
+  },
+  {
+    "id": "percentages-55",
+    "topic": "percentages",
+    "rating": 1391,
+    "prompt": "A price changes from ₹128 to ₹112. What is the percentage change? (Use a minus sign for a decrease.)",
+    "answer": "-12.5",
+    "answer_type": "numeric",
+    "hint": "Change ÷ original × 100."
+  },
+  {
+    "id": "linear-equations-00",
+    "topic": "linear-equations",
+    "rating": 531,
+    "prompt": "Solve for x: 4x + 12 = 20",
+    "answer": "2",
+    "answer_type": "numeric",
+    "hint": "Undo the addition first, then divide by the coefficient."
+  },
+  {
+    "id": "linear-equations-01",
+    "topic": "linear-equations",
+    "rating": 479,
+    "prompt": "Solve for x: 6x + 11 = 53",
+    "answer": "7",
+    "answer_type": "numeric",
+    "hint": "Undo the addition first, then divide by the coefficient."
+  },
+  {
+    "id": "linear-equations-02",
+    "topic": "linear-equations",
+    "rating": 482,
+    "prompt": "Solve for x: 3x + 13 = 25",
+    "answer": "4",
+    "answer_type": "numeric",
+    "hint": "Undo the addition first, then divide by the coefficient."
+  },
+  {
+    "id": "linear-equations-03",
+    "topic": "linear-equations",
+    "rating": 502,
+    "prompt": "Solve for x: 2x - 7 = 7",
+    "answer": "7",
+    "answer_type": "numeric",
+    "hint": "Undo the addition first, then divide by the coefficient."
+  },
+  {
+    "id": "linear-equations-04",
+    "topic": "linear-equations",
+    "rating": 491,
+    "prompt": "Solve for x: 7x + 15 = 64",
+    "answer": "7",
+    "answer_type": "numeric",
+    "hint": "Undo the addition first, then divide by the coefficient."
+  },
+  {
+    "id": "linear-equations-05",
+    "topic": "linear-equations",
+    "rating": 473,
+    "prompt": "Solve for x: 3x + 13 = 28",
+    "answer": "5",
+    "answer_type": "numeric",
+    "hint": "Undo the addition first, then divide by the coefficient."
+  },
+  {
+    "id": "linear-equations-10",
+    "topic": "linear-equations",
+    "rating": 700,
+    "prompt": "Solve for x: 2x + 15 = 29",
+    "answer": "7",
+    "answer_type": "numeric",
+    "hint": "Undo the addition first, then divide by the coefficient."
+  },
+  {
+    "id": "linear-equations-11",
+    "topic": "linear-equations",
+    "rating": 698,
+    "prompt": "Solve for x: 3x + 14 = 26",
+    "answer": "4",
+    "answer_type": "numeric",
+    "hint": "Undo the addition first, then divide by the coefficient."
+  },
+  {
+    "id": "linear-equations-12",
+    "topic": "linear-equations",
+    "rating": 669,
+    "prompt": "Solve for x: 4x + 14 = 38",
+    "answer": "6",
+    "answer_type": "numeric",
+    "hint": "Undo the addition first, then divide by the coefficient."
+  },
+  {
+    "id": "linear-equations-13",
+    "topic": "linear-equations",
+    "rating": 664,
+    "prompt": "Solve for x: 2x + 9 = 17",
+    "answer": "4",
+    "answer_type": "numeric",
+    "hint": "Undo the addition first, then divide by the coefficient."
+  },
+  {
+    "id": "linear-equations-14",
+    "topic": "linear-equations",
+    "rating": 648,
+    "prompt": "Solve for x: 4x - 4 = 24",
+    "answer": "7",
+    "answer_type": "numeric",
+    "hint": "Undo the addition first, then divide by the coefficient."
+  },
+  {
+    "id": "linear-equations-15",
+    "topic": "linear-equations",
+    "rating": 705,
+    "prompt": "Solve for x: 4x + 8 = 28",
+    "answer": "5",
+    "answer_type": "numeric",
+    "hint": "Undo the addition first, then divide by the coefficient."
+  },
+  {
+    "id": "linear-equations-20",
+    "topic": "linear-equations",
+    "rating": 888,
+    "prompt": "Solve for x: 7x + 14 = 56",
+    "answer": "6",
+    "answer_type": "numeric",
+    "hint": "Undo the addition first, then divide by the coefficient."
+  },
+  {
+    "id": "linear-equations-21",
+    "topic": "linear-equations",
+    "rating": 853,
+    "prompt": "Solve for x: 2x - 9 = -1",
+    "answer": "4",
+    "answer_type": "numeric",
+    "hint": "Undo the addition first, then divide by the coefficient."
+  },
+  {
+    "id": "linear-equations-22",
+    "topic": "linear-equations",
+    "rating": 824,
+    "prompt": "Solve for x: 6x - 4 = -10",
+    "answer": "-1",
+    "answer_type": "numeric",
+    "hint": "Undo the addition first, then divide by the coefficient."
+  },
+  {
+    "id": "linear-equations-23",
+    "topic": "linear-equations",
+    "rating": 864,
+    "prompt": "Solve for x: 6x + 1 = -17",
+    "answer": "-3",
+    "answer_type": "numeric",
+    "hint": "Undo the addition first, then divide by the coefficient."
+  },
+  {
+    "id": "linear-equations-24",
+    "topic": "linear-equations",
+    "rating": 885,
+    "prompt": "Solve for x: 5x + 7 = 27",
+    "answer": "4",
+    "answer_type": "numeric",
+    "hint": "Undo the addition first, then divide by the coefficient."
+  },
+  {
+    "id": "linear-equations-25",
+    "topic": "linear-equations",
+    "rating": 844,
+    "prompt": "Solve for x: 5x + 6 = -9",
+    "answer": "-3",
+    "answer_type": "numeric",
+    "hint": "Undo the addition first, then divide by the coefficient."
+  },
+  {
+    "id": "linear-equations-30",
+    "topic": "linear-equations",
+    "rating": 1066,
+    "prompt": "Solve for x: 2x - 12 = -8",
+    "answer": "2",
+    "answer_type": "numeric",
+    "hint": "Undo the addition first, then divide by the coefficient."
+  },
+  {
+    "id": "linear-equations-31",
+    "topic": "linear-equations",
+    "rating": 1042,
+    "prompt": "Solve for x: 4x - 10 = -10",
+    "answer": "0",
+    "answer_type": "numeric",
+    "hint": "Undo the addition first, then divide by the coefficient."
+  },
+  {
+    "id": "linear-equations-32",
+    "topic": "linear-equations",
+    "rating": 1038,
+    "prompt": "Solve for x: -7x + 11 = -17",
+    "answer": "4",
+    "answer_type": "numeric",
+    "hint": "Undo the addition first, then divide by the coefficient."
+  },
+  {
+    "id": "linear-equations-33",
+    "topic": "linear-equations",
+    "rating": 1051,
+    "prompt": "Solve for x: 7x - 2 = 19",
+    "answer": "3",
+    "answer_type": "numeric",
+    "hint": "Undo the addition first, then divide by the coefficient."
+  },
+  {
+    "id": "linear-equations-34",
+    "topic": "linear-equations",
+    "rating": 1053,
+    "prompt": "Solve for x: -6x - 6 = -24",
+    "answer": "3",
+    "answer_type": "numeric",
+    "hint": "Undo the addition first, then divide by the coefficient."
+  },
+  {
+    "id": "linear-equations-35",
+    "topic": "linear-equations",
+    "rating": 1072,
+    "prompt": "Solve for x: -7x + 7 = -35",
+    "answer": "6",
+    "answer_type": "numeric",
+    "hint": "Undo the addition first, then divide by the coefficient."
+  },
+  {
+    "id": "linear-equations-40",
+    "topic": "linear-equations",
+    "rating": 1206,
+    "prompt": "Solve for x: -5x - 3 = 2x - 24",
+    "answer": "3",
+    "answer_type": "numeric",
+    "hint": "Collect the x terms on one side."
+  },
+  {
+    "id": "linear-equations-41",
+    "topic": "linear-equations",
+    "rating": 1236,
+    "prompt": "Solve for x: 6x + 2 = 2x + 30",
+    "answer": "7",
+    "answer_type": "numeric",
+    "hint": "Collect the x terms on one side."
+  },
+  {
+    "id": "linear-equations-42",
+    "topic": "linear-equations",
+    "rating": 1201,
+    "prompt": "Solve for x: 6x + 13 = 3x + 13",
+    "answer": "0",
+    "answer_type": "numeric",
+    "hint": "Collect the x terms on one side."
+  },
+  {
+    "id": "linear-equations-43",
+    "topic": "linear-equations",
+    "rating": 1219,
+    "prompt": "Solve for x: 4x - 10 = 1x - 22",
+    "answer": "-4",
+    "answer_type": "numeric",
+    "hint": "Collect the x terms on one side."
+  },
+  {
+    "id": "linear-equations-44",
+    "topic": "linear-equations",
+    "rating": 1211,
+    "prompt": "Solve for x: -3x - 12 = 1x - 16",
+    "answer": "1",
+    "answer_type": "numeric",
+    "hint": "Collect the x terms on one side."
+  },
+  {
+    "id": "linear-equations-45",
+    "topic": "linear-equations",
+    "rating": 1260,
+    "prompt": "Solve for x: -6x + 2 = 2x - 70",
+    "answer": "9",
+    "answer_type": "numeric",
+    "hint": "Collect the x terms on one side."
+  },
+  {
+    "id": "linear-equations-50",
+    "topic": "linear-equations",
+    "rating": 1391,
+    "prompt": "Solve for x: 7x + 3 = 2x + 3",
+    "answer": "0",
+    "answer_type": "numeric",
+    "hint": "Collect the x terms on one side."
+  },
+  {
+    "id": "linear-equations-51",
+    "topic": "linear-equations",
+    "rating": 1414,
+    "prompt": "Solve for x: -7x + 12 = 1x + 28",
+    "answer": "-2",
+    "answer_type": "numeric",
+    "hint": "Collect the x terms on one side."
+  },
+  {
+    "id": "linear-equations-52",
+    "topic": "linear-equations",
+    "rating": 1391,
+    "prompt": "Solve for x: 3x - 11 = 3x - 11",
+    "answer": "1",
+    "answer_type": "numeric",
+    "hint": "Collect the x terms on one side."
+  },
+  {
+    "id": "linear-equations-53",
+    "topic": "linear-equations",
+    "rating": 1427,
+    "prompt": "Solve for x: -5x + 13 = 2x + 34",
+    "answer": "-3",
+    "answer_type": "numeric",
+    "hint": "Collect the x terms on one side."
+  },
+  {
+    "id": "linear-equations-54",
+    "topic": "linear-equations",
+    "rating": 1417,
+    "prompt": "Solve for x: 5x + 14 = 3x + 22",
+    "answer": "4",
+    "answer_type": "numeric",
+    "hint": "Collect the x terms on one side."
+  },
+  {
+    "id": "linear-equations-55",
+    "topic": "linear-equations",
+    "rating": 1391,
+    "prompt": "Solve for x: 7x + 2 = 2x - 3",
+    "answer": "-1",
+    "answer_type": "numeric",
+    "hint": "Collect the x terms on one side."
+  },
+  {
+    "id": "expressions-00",
+    "topic": "expressions",
+    "rating": 540,
+    "prompt": "Expand and simplify (x + 6)(x + 3)",
+    "answer": "x^2 + 9x + 18",
+    "answer_type": "expression",
+    "hint": "Multiply every term in the first bracket by every term in the second."
+  },
+  {
+    "id": "expressions-01",
+    "topic": "expressions",
+    "rating": 469,
+    "prompt": "Expand and simplify (x + 2)(x + 3)",
+    "answer": "x^2 + 5x + 6",
+    "answer_type": "expression",
+    "hint": "Multiply every term in the first bracket by every term in the second."
+  },
+  {
+    "id": "expressions-02",
+    "topic": "expressions",
+    "rating": 494,
+    "prompt": "Expand and simplify (x + 6)(x - 3)",
+    "answer": "x^2 + 3x - 18",
+    "answer_type": "expression",
+    "hint": "Multiply every term in the first bracket by every term in the second."
+  },
+  {
+    "id": "expressions-03",
+    "topic": "expressions",
+    "rating": 477,
+    "prompt": "Expand and simplify (x + 3)(x - 3)",
+    "answer": "x^2 - 9",
+    "answer_type": "expression",
+    "hint": "Multiply every term in the first bracket by every term in the second."
+  },
+  {
+    "id": "expressions-04",
+    "topic": "expressions",
+    "rating": 479,
+    "prompt": "Expand and simplify (x + 2)(x + 2)",
+    "answer": "x^2 + 4x + 4",
+    "answer_type": "expression",
+    "hint": "Multiply every term in the first bracket by every term in the second."
+  },
+  {
+    "id": "expressions-05",
+    "topic": "expressions",
+    "rating": 513,
+    "prompt": "Expand and simplify (x + 6)(x - 2)",
+    "answer": "x^2 + 4x - 12",
+    "answer_type": "expression",
+    "hint": "Multiply every term in the first bracket by every term in the second."
+  },
+  {
+    "id": "expressions-10",
+    "topic": "expressions",
+    "rating": 693,
+    "prompt": "Expand and simplify (x + 4)(x + 5)",
+    "answer": "x^2 + 9x + 20",
+    "answer_type": "expression",
+    "hint": "Multiply every term in the first bracket by every term in the second."
+  },
+  {
+    "id": "expressions-11",
+    "topic": "expressions",
+    "rating": 689,
+    "prompt": "Expand and simplify (x - 1)(x + 7)",
+    "answer": "x^2 + 6x - 7",
+    "answer_type": "expression",
+    "hint": "Multiply every term in the first bracket by every term in the second."
+  },
+  {
+    "id": "expressions-12",
+    "topic": "expressions",
+    "rating": 701,
+    "prompt": "Expand and simplify (x - 5)(x + 7)",
+    "answer": "x^2 + 2x - 35",
+    "answer_type": "expression",
+    "hint": "Multiply every term in the first bracket by every term in the second."
+  },
+  {
+    "id": "expressions-13",
+    "topic": "expressions",
+    "rating": 693,
+    "prompt": "Expand and simplify (x + 1)(x + 3)",
+    "answer": "x^2 + 4x + 3",
+    "answer_type": "expression",
+    "hint": "Multiply every term in the first bracket by every term in the second."
+  },
+  {
+    "id": "expressions-14",
+    "topic": "expressions",
+    "rating": 674,
+    "prompt": "Expand and simplify (x - 5)(x - 4)",
+    "answer": "x^2 - 9x + 20",
+    "answer_type": "expression",
+    "hint": "Multiply every term in the first bracket by every term in the second."
+  },
+  {
+    "id": "expressions-15",
+    "topic": "expressions",
+    "rating": 683,
+    "prompt": "Expand and simplify (x + 4)(x + 1)",
+    "answer": "x^2 + 5x + 4",
+    "answer_type": "expression",
+    "hint": "Multiply every term in the first bracket by every term in the second."
+  },
+  {
+    "id": "expressions-20",
+    "topic": "expressions",
+    "rating": 836,
+    "prompt": "Expand and simplify (3x - 4)(4x + 7)",
+    "answer": "12x^2 + 5x - 28",
+    "answer_type": "expression",
+    "hint": "Multiply every term in the first bracket by every term in the second."
+  },
+  {
+    "id": "expressions-21",
+    "topic": "expressions",
+    "rating": 830,
+    "prompt": "Expand and simplify (3x + 1)(4x - 5)",
+    "answer": "12x^2 - 11x - 5",
+    "answer_type": "expression",
+    "hint": "Multiply every term in the first bracket by every term in the second."
+  },
+  {
+    "id": "expressions-22",
+    "topic": "expressions",
+    "rating": 853,
+    "prompt": "Expand and simplify (3x + 2)(3x - 2)",
+    "answer": "9x^2 - 4",
+    "answer_type": "expression",
+    "hint": "Multiply every term in the first bracket by every term in the second."
+  },
+  {
+    "id": "expressions-23",
+    "topic": "expressions",
+    "rating": 868,
+    "prompt": "Expand and simplify (2x + 2)(3x + 3)",
+    "answer": "6x^2 + 12x + 6",
+    "answer_type": "expression",
+    "hint": "Multiply every term in the first bracket by every term in the second."
+  },
+  {
+    "id": "expressions-24",
+    "topic": "expressions",
+    "rating": 889,
+    "prompt": "Expand and simplify (2x - 3)(3x - 4)",
+    "answer": "6x^2 - 17x + 12",
+    "answer_type": "expression",
+    "hint": "Multiply every term in the first bracket by every term in the second."
+  },
+  {
+    "id": "expressions-25",
+    "topic": "expressions",
+    "rating": 823,
+    "prompt": "Expand and simplify (x - 2)(3x - 7)",
+    "answer": "3x^2 - 13x + 14",
+    "answer_type": "expression",
+    "hint": "Multiply every term in the first bracket by every term in the second."
+  },
+  {
+    "id": "expressions-30",
+    "topic": "expressions",
+    "rating": 1060,
+    "prompt": "Expand and simplify (x - 1)(2x - 2)",
+    "answer": "2x^2 - 4x + 2",
+    "answer_type": "expression",
+    "hint": "Multiply every term in the first bracket by every term in the second."
+  },
+  {
+    "id": "expressions-31",
+    "topic": "expressions",
+    "rating": 1047,
+    "prompt": "Expand and simplify (3x - 5)(2x + 4)",
+    "answer": "6x^2 + 2x - 20",
+    "answer_type": "expression",
+    "hint": "Multiply every term in the first bracket by every term in the second."
+  },
+  {
+    "id": "expressions-32",
+    "topic": "expressions",
+    "rating": 1039,
+    "prompt": "Expand and simplify (x - 5)(4x - 7)",
+    "answer": "4x^2 - 27x + 35",
+    "answer_type": "expression",
+    "hint": "Multiply every term in the first bracket by every term in the second."
+  },
+  {
+    "id": "expressions-33",
+    "topic": "expressions",
+    "rating": 1050,
+    "prompt": "Expand and simplify (x + 1)(4x + 5)",
+    "answer": "4x^2 + 9x + 5",
+    "answer_type": "expression",
+    "hint": "Multiply every term in the first bracket by every term in the second."
+  },
+  {
+    "id": "expressions-34",
+    "topic": "expressions",
+    "rating": 1076,
+    "prompt": "Expand and simplify (3x - 1)(2x + 1)",
+    "answer": "6x^2 + x - 1",
+    "answer_type": "expression",
+    "hint": "Multiply every term in the first bracket by every term in the second."
+  },
+  {
+    "id": "expressions-40",
+    "topic": "expressions",
+    "rating": 1242,
+    "prompt": "Expand and simplify (3x + 1)^2",
+    "answer": "9x^2 + 6x + 1",
+    "answer_type": "expression",
+    "hint": "Multiply every term in the first bracket by every term in the second."
+  },
+  {
+    "id": "expressions-41",
+    "topic": "expressions",
+    "rating": 1235,
+    "prompt": "Expand and simplify (x + 3)^2",
+    "answer": "x^2 + 6x + 9",
+    "answer_type": "expression",
+    "hint": "Multiply every term in the first bracket by every term in the second."
+  },
+  {
+    "id": "expressions-42",
+    "topic": "expressions",
+    "rating": 1239,
+    "prompt": "Expand and simplify (x + 5)^2",
+    "answer": "x^2 + 10x + 25",
+    "answer_type": "expression",
+    "hint": "Multiply every term in the first bracket by every term in the second."
+  },
+  {
+    "id": "expressions-43",
+    "topic": "expressions",
+    "rating": 1191,
+    "prompt": "Expand and simplify (2x + 5)^2",
+    "answer": "4x^2 + 20x + 25",
+    "answer_type": "expression",
+    "hint": "Multiply every term in the first bracket by every term in the second."
+  },
+  {
+    "id": "expressions-44",
+    "topic": "expressions",
+    "rating": 1223,
+    "prompt": "Expand and simplify (2x + 2)^2",
+    "answer": "4x^2 + 8x + 4",
+    "answer_type": "expression",
+    "hint": "Multiply every term in the first bracket by every term in the second."
+  },
+  {
+    "id": "expressions-45",
+    "topic": "expressions",
+    "rating": 1225,
+    "prompt": "Expand and simplify (x - 3)^2",
+    "answer": "x^2 - 6x + 9",
+    "answer_type": "expression",
+    "hint": "Multiply every term in the first bracket by every term in the second."
+  },
+  {
+    "id": "expressions-50",
+    "topic": "expressions",
+    "rating": 1426,
+    "prompt": "Expand and simplify (2x + 3)^2",
+    "answer": "4x^2 + 12x + 9",
+    "answer_type": "expression",
+    "hint": "Multiply every term in the first bracket by every term in the second."
+  },
+  {
+    "id": "expressions-51",
+    "topic": "expressions",
+    "rating": 1420,
+    "prompt": "Expand and simplify (x + 2)^2",
+    "answer": "x^2 + 4x + 4",
+    "answer_type": "expression",
+    "hint": "Multiply every term in the first bracket by every term in the second."
+  },
+  {
+    "id": "expressions-52",
+    "topic": "expressions",
+    "rating": 1371,
+    "prompt": "Expand and simplify (3x + 4)^2",
+    "answer": "9x^2 + 24x + 16",
+    "answer_type": "expression",
+    "hint": "Multiply every term in the first bracket by every term in the second."
+  },
+  {
+    "id": "expressions-53",
+    "topic": "expressions",
+    "rating": 1420,
+    "prompt": "Expand and simplify (2x - 4)^2",
+    "answer": "4x^2 - 16x + 16",
+    "answer_type": "expression",
+    "hint": "Multiply every term in the first bracket by every term in the second."
+  },
+  {
+    "id": "expressions-54",
+    "topic": "expressions",
+    "rating": 1405,
+    "prompt": "Expand and simplify (3x + 3)^2",
+    "answer": "9x^2 + 18x + 9",
+    "answer_type": "expression",
+    "hint": "Multiply every term in the first bracket by every term in the second."
+  },
+  {
+    "id": "exponents-00",
+    "topic": "exponents",
+    "rating": 500,
+    "prompt": "Simplify x^2 × x^3",
+    "answer": "x^5",
+    "answer_type": "expression",
+    "hint": "When multiplying powers, add the exponents."
+  },
+  {
+    "id": "exponents-01",
+    "topic": "exponents",
+    "rating": 483,
+    "prompt": "Simplify x^2 × x^6",
+    "answer": "x^8",
+    "answer_type": "expression",
+    "hint": "When multiplying powers, add the exponents."
+  },
+  {
+    "id": "exponents-02",
+    "topic": "exponents",
+    "rating": 521,
+    "prompt": "Simplify x^3 × x^3",
+    "answer": "x^6",
+    "answer_type": "expression",
+    "hint": "When multiplying powers, add the exponents."
+  },
+  {
+    "id": "exponents-03",
+    "topic": "exponents",
+    "rating": 527,
+    "prompt": "Simplify x^4 × x^6",
+    "answer": "x^10",
+    "answer_type": "expression",
+    "hint": "When multiplying powers, add the exponents."
+  },
+  {
+    "id": "exponents-04",
+    "topic": "exponents",
+    "rating": 472,
+    "prompt": "Simplify x^6 × x^4",
+    "answer": "x^10",
+    "answer_type": "expression",
+    "hint": "When multiplying powers, add the exponents."
+  },
+  {
+    "id": "exponents-05",
+    "topic": "exponents",
+    "rating": 489,
+    "prompt": "Simplify x^3 × x^4",
+    "answer": "x^7",
+    "answer_type": "expression",
+    "hint": "When multiplying powers, add the exponents."
+  },
+  {
+    "id": "exponents-10",
+    "topic": "exponents",
+    "rating": 678,
+    "prompt": "Simplify x^4 × x^3",
+    "answer": "x^7",
+    "answer_type": "expression",
+    "hint": "When multiplying powers, add the exponents."
+  },
+  {
+    "id": "exponents-13",
+    "topic": "exponents",
+    "rating": 710,
+    "prompt": "Simplify x^2 × x^2",
+    "answer": "x^4",
+    "answer_type": "expression",
+    "hint": "When multiplying powers, add the exponents."
+  },
+  {
+    "id": "exponents-15",
+    "topic": "exponents",
+    "rating": 641,
+    "prompt": "Simplify x^5 × x^2",
+    "answer": "x^7",
+    "answer_type": "expression",
+    "hint": "When multiplying powers, add the exponents."
+  },
+  {
+    "id": "exponents-20",
+    "topic": "exponents",
+    "rating": 880,
+    "prompt": "Simplify (x^6)^4",
+    "answer": "x^24",
+    "answer_type": "expression",
+    "hint": "A power of a power multiplies the exponents."
+  },
+  {
+    "id": "exponents-21",
+    "topic": "exponents",
+    "rating": 863,
+    "prompt": "Simplify (x^5)^5",
+    "answer": "x^25",
+    "answer_type": "expression",
+    "hint": "A power of a power multiplies the exponents."
+  },
+  {
+    "id": "exponents-22",
+    "topic": "exponents",
+    "rating": 852,
+    "prompt": "Simplify (x^3)^2",
+    "answer": "x^6",
+    "answer_type": "expression",
+    "hint": "A power of a power multiplies the exponents."
+  },
+  {
+    "id": "exponents-23",
+    "topic": "exponents",
+    "rating": 828,
+    "prompt": "Simplify (x^5)^2",
+    "answer": "x^10",
+    "answer_type": "expression",
+    "hint": "A power of a power multiplies the exponents."
+  },
+  {
+    "id": "exponents-25",
+    "topic": "exponents",
+    "rating": 900,
+    "prompt": "Simplify (x^2)^6",
+    "answer": "x^12",
+    "answer_type": "expression",
+    "hint": "A power of a power multiplies the exponents."
+  },
+  {
+    "id": "exponents-30",
+    "topic": "exponents",
+    "rating": 1019,
+    "prompt": "Simplify (x^2)^3",
+    "answer": "x^6",
+    "answer_type": "expression",
+    "hint": "A power of a power multiplies the exponents."
+  },
+  {
+    "id": "exponents-34",
+    "topic": "exponents",
+    "rating": 1076,
+    "prompt": "Simplify (x^5)^6",
+    "answer": "x^30",
+    "answer_type": "expression",
+    "hint": "A power of a power multiplies the exponents."
+  },
+  {
+    "id": "exponents-35",
+    "topic": "exponents",
+    "rating": 1066,
+    "prompt": "Simplify (x^6)^3",
+    "answer": "x^18",
+    "answer_type": "expression",
+    "hint": "A power of a power multiplies the exponents."
+  },
+  {
+    "id": "exponents-40",
+    "topic": "exponents",
+    "rating": 1218,
+    "prompt": "Simplify (3x^5)^2 ÷ x^5",
+    "answer": "9x^5",
+    "answer_type": "expression",
+    "hint": "Square the coefficient, then subtract the exponents."
+  },
+  {
+    "id": "exponents-41",
+    "topic": "exponents",
+    "rating": 1252,
+    "prompt": "Simplify (3x^6)^2 ÷ x^5",
+    "answer": "9x^7",
+    "answer_type": "expression",
+    "hint": "Square the coefficient, then subtract the exponents."
+  },
+  {
+    "id": "exponents-42",
+    "topic": "exponents",
+    "rating": 1192,
+    "prompt": "Simplify (4x^6)^2 ÷ x^2",
+    "answer": "16x^10",
+    "answer_type": "expression",
+    "hint": "Square the coefficient, then subtract the exponents."
+  },
+  {
+    "id": "exponents-43",
+    "topic": "exponents",
+    "rating": 1190,
+    "prompt": "Simplify (3x^3)^2 ÷ x^3",
+    "answer": "9x^3",
+    "answer_type": "expression",
+    "hint": "Square the coefficient, then subtract the exponents."
+  },
+  {
+    "id": "exponents-44",
+    "topic": "exponents",
+    "rating": 1250,
+    "prompt": "Simplify (2x^3)^2 ÷ x^3",
+    "answer": "4x^3",
+    "answer_type": "expression",
+    "hint": "Square the coefficient, then subtract the exponents."
+  },
+  {
+    "id": "exponents-45",
+    "topic": "exponents",
+    "rating": 1232,
+    "prompt": "Simplify (2x^2)^2 ÷ x^3",
+    "answer": "4x^1",
+    "answer_type": "expression",
+    "hint": "Square the coefficient, then subtract the exponents."
+  },
+  {
+    "id": "exponents-50",
+    "topic": "exponents",
+    "rating": 1397,
+    "prompt": "Simplify (3x^5)^2 ÷ x^6",
+    "answer": "9x^4",
+    "answer_type": "expression",
+    "hint": "Square the coefficient, then subtract the exponents."
+  },
+  {
+    "id": "exponents-51",
+    "topic": "exponents",
+    "rating": 1396,
+    "prompt": "Simplify (3x^2)^2 ÷ x^3",
+    "answer": "9x^1",
+    "answer_type": "expression",
+    "hint": "Square the coefficient, then subtract the exponents."
+  },
+  {
+    "id": "exponents-52",
+    "topic": "exponents",
+    "rating": 1389,
+    "prompt": "Simplify (4x^5)^2 ÷ x^2",
+    "answer": "16x^8",
+    "answer_type": "expression",
+    "hint": "Square the coefficient, then subtract the exponents."
+  },
+  {
+    "id": "exponents-53",
+    "topic": "exponents",
+    "rating": 1385,
+    "prompt": "Simplify (4x^4)^2 ÷ x^6",
+    "answer": "16x^2",
+    "answer_type": "expression",
+    "hint": "Square the coefficient, then subtract the exponents."
+  }
+]

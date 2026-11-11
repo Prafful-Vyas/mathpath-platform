@@ -1,0 +1,44 @@
+[
+  {
+    "slug": "integers",
+    "title": "Integers",
+    "grade": 6,
+    "order": 0,
+    "description": "Adding, subtracting and multiplying negative numbers."
+  },
+  {
+    "slug": "fractions",
+    "title": "Fractions",
+    "grade": 6,
+    "order": 1,
+    "description": "Adding and subtracting fractions with unlike denominators."
+  },
+  {
+    "slug": "percentages",
+    "title": "Percentages",
+    "grade": 7,
+    "order": 2,
+    "description": "Percent of a quantity, percentage change and discounts."
+  },
+  {
+    "slug": "linear-equations",
+    "title": "Linear Equations",
+    "grade": 7,
+    "order": 3,
+    "description": "Solving one-variable equations of the form ax + b = c."
+  },
+  {
+    "slug": "expressions",
+    "title": "Algebraic Expressions",
+    "grade": 8,
+    "order": 4,
+    "description": "Expanding and simplifying products of binomials."
+  },
+  {
+    "slug": "exponents",
+    "title": "Laws of Exponents",
+    "grade": 8,
+    "order": 5,
+    "description": "Multiplying, dividing and raising powers."
+  }
+]
